@@ -1,0 +1,8 @@
+server:
+  port: 18095
+
+spring:
+  application:
+    name: note-boot-groovy
+  profiles:
+    active: dev
